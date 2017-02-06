@@ -1,1 +1,1 @@
-A collection of some basic sort algorithms in Go.
+An incomplete collection of some basic sort algorithms in Go.
