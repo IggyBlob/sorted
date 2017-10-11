@@ -26,7 +26,7 @@ func SelectionSort(data DataSet) DataSet {
 func InsertionSort(data DataSet) DataSet {
 
 	for i := 0; i < len(data) - 1; i++ {
-		insert := data[i + 1];
+		insert := data[i + 1]
 		j := i
 		for (j >= 0) && (data[j] > insert) {
 			data[j + 1] = data[j]
